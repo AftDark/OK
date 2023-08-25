@@ -1,9 +1,9 @@
 .resume {
     margin: 0 auto;
-    width: 60%;
+   width: 60%;
     padding: 20px;
     font-family: Arial, sans-serif;
-    background-color: #ff0000;
+    background-color: #979797;
 }
 
 h1 {
@@ -26,4 +26,8 @@ li {
 
 p {
     margin: 5px 0;
+} 
+.square-bullets {
+    list-style-type: square; /* Use square bullets */
+    padding-left: 20px; /* Add some padding for space */
 }
